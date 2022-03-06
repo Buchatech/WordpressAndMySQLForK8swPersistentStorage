@@ -1,2 +1,3 @@
-# MySQL and Wordpress with persistent storage deployment to Kubernetes.
+# MySQL and Wordpress Kubernetes Deployment
+MySQL and Wordpress deployments for Kubernetes with persistent storage.
 Includes a secret for MySQL. 
