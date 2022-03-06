@@ -1,1 +1,1 @@
-# MySQL with persistent storage and Wordpress for Kubernetes.
+# MySQL and Wordpress with persistent storage deployment to Kubernetes.
